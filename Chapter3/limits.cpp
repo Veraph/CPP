@@ -13,7 +13,8 @@ int main()
 
     // sizeof operator yields size of type or variable
     cout << "int is " << sizeof(int) << "byte." << endl;
-    cout << "int is " << sizeof n_int << "byte." << endl; 
+    // () is optional there
+    cout << "int is " << sizeof n_int << "byte." << endl;
     cout << "short is " << sizeof n_short << "byte." << endl;
     cout << "long is " << sizeof n_long << "byte." << endl;
     cout << "llong is " << sizeof n_llong << "byte." << endl;
