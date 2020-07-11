@@ -2,6 +2,7 @@
 #include <iostream>
 using std::cin; using std::cout; using std::endl;
 
+// a swap function
 void swap(int *a, int *b)
 {
     auto temp = *a;
