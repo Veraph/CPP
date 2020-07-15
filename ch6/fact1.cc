@@ -1,4 +1,4 @@
-// fact1.cc -- fact function and calling fact in main function
+// fact1.cc -- fact function and calling fact in main function.
 #include <iostream>
 using std::cin; using std::cout; using std::endl;
 
