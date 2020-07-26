@@ -3,6 +3,7 @@
 using std::cin; using std::cout; using std::endl;
 
 // a swap function
+// simple int a and int b will not work as they are local variable
 void swap(int &a, int &b)
 {
     auto temp = a;
