@@ -12,4 +12,4 @@ auto func2(ArrT &arr) -> string(&) [10];
 
 // method3
 string arrS[10];
-decltype(arrS) &func3(ArrT &arr);
+decltype(arrS)& func3(ArrT &arr);
